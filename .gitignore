@@ -1,0 +1,11 @@
+# Ignore intermediate OCR raster PNGs and temporary prompt/reply work folders
+**/book_pages/
+**/slides_img/
+**/book_md/
+**/prompts/
+**/replies/
+**/fold_work/
+**/units.json
+**/manifest.json
+**/__pycache__/
+*.pyc
